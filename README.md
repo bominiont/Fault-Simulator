@@ -42,4 +42,3 @@ This code does not require any external libraries or dependencies. It uses stand
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 
-Please modify the information in the README file according to your specific implementation and include any additional details you find relevant.
